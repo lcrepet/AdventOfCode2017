@@ -33,3 +33,15 @@ CHECKSUM: 18
 > ruby day_two/checksum_2.rb '5,9,2,8;9,4,7,3;3,8,6,5'
 CHECKSUM: 9
 ```
+
+## DAY THREE
+### Part 1
+```
+> ruby day_three/manhattan_distance.rb 1024
+NUMBER OF STEPS: 31
+```
+### Part 2
+```
+> ruby day_three/greater_value.rb 800
+FIRST GREATER VALUE: 806
+```
