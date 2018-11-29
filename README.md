@@ -59,3 +59,16 @@ NUMBER OF VALID PASSPHRASES: 2
 TOTAL NUMBER OF PASSPHRASES: 5
 NUMBER OF VALID PASSPHRASES: 3
 ```
+
+## DAY FIVE
+### Part 1
+```
+> ruby day_four/valid_passphrases_count_1.rb 'aa bb cc dd ee,aa bb cc dd aa,aa bb cc dd aaa'
+TOTAL NUMBER OF PASSPHRASES: 3
+NUMBER OF VALID PASSPHRASES: 2
+```
+### Part 2
+```
+> ruby day_five/escape_simple_maze.rb '0 3 0 1 -3'
+NUMBER OF STEPS: 5
+```
