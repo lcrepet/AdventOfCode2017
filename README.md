@@ -72,3 +72,15 @@ NUMBER OF VALID PASSPHRASES: 2
 > ruby day_five/escape_simple_maze.rb '0 3 0 1 -3'
 NUMBER OF STEPS: 5
 ```
+
+## DAY SIX
+### Part 1
+```
+> ruby day_six/detect_infinite_loop_1.rb '0,2,7,0'
+NUMBER OF CYCLES: 5
+```
+### Part 2
+```
+> ruby day_six/detect_infinite_loop_2.rb '0,2,7,0'
+SIZE OF LOOP: 4
+```
