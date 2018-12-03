@@ -98,3 +98,15 @@ BOTTOM PROGRAM: tknk
 -> ugml, padx, fwft;jptl (61);ugml (68) -> gyxo, ebii, jptl;gyxo (61);cntj (57)"
 PROGRAM ugml SHOULD WEIGHT 60.
 ```
+
+## DAY EIGHT
+### Part 1
+```
+> ruby day_eight/end_max_value.rb 'b inc 5 if a > 1;a inc 1 if b < 5;c dec -10 if a >= 1;c inc -20 if c == 10'
+MAX VALUE: 1
+```
+### Part 2
+```
+> ruby day_eight/max_value_ever.rb 'b inc 5 if a > 1;a inc 1 if b < 5;c dec -10 if a >= 1;c inc -20 if c == 10'
+MAX VALUE: 10
+```
