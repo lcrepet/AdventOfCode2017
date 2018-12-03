@@ -110,3 +110,15 @@ MAX VALUE: 1
 > ruby day_eight/max_value_ever.rb 'b inc 5 if a > 1;a inc 1 if b < 5;c dec -10 if a >= 1;c inc -20 if c == 10'
 MAX VALUE: 10
 ```
+
+## DAY NINE
+### Part 1
+```
+> ruby day_nine/total_score.rb '{{<a!>},{<a!>},{<a!>},{<ab>}}'
+TOTAL SCORE: 3
+```
+### Part 2
+```
+> ruby day_nine/characters_in_garbage.rb '<{o"i!a,<{i<a>'
+NUMBER OF CHARACTERS IN GARBAGE: 10
+```
